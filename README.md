@@ -1,4 +1,4 @@
-# 🏁 QuadRacerX – Onchain ATV Racing Game
+# 🏁 QuadRacerX – Onchain ATV Racing Game 
 
 **QuadRacerX** is a fully onchain multiplayer ATV (quad bike) racing game built in Solidity.  
 Players register, join races, and make moves turn by turn to reach the finish line.  
