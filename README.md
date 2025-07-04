@@ -16,7 +16,7 @@ The first one to cross the finish line wins. Simple, fun, and trustless.
  
 --- 
  
-## 📦 Smart Contract
+## 📦 Smart Contract 
 
 - Language: Solidity `^0.8.20`
 - Contract: `QuadRacerX.sol`
