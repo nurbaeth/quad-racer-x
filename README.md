@@ -21,7 +21,7 @@ The first one to cross the finish line wins. Simple, fun, and trustless.
 - Language: Solidity `^0.8.20`  
 - Contract: `QuadRacerX.sol`  
 - No dependencies (pure Solidity) 
-- Ready for deployment on testnets like Sepolia or local chains like Hardhat
+- Ready for deployment on testnets like Sepolia or local chains like Hardhat 
 
 ---
 
