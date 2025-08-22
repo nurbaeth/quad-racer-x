@@ -15,7 +15,7 @@ The first one to cross the finish line wins. Simple, fun, and trustless.
 - 🔒 **No Admins**: All logic is transparent and immutable.     
   
 ---  
- 
+  
 ## 📦 Smart Contract  
  
 - Language: Solidity `^0.8.20`  
