@@ -24,7 +24,7 @@ The first one to cross the finish line wins. Simple, fun, and trustless.
 - Ready for deployment on testnets like Sepolia or local chains like Hardhat  
   
 --- 
-
+ 
 ## 🚀 How to Play (Developer Mode)
 
 1. **Deploy the contract**
