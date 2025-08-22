@@ -25,7 +25,7 @@ The first one to cross the finish line wins. Simple, fun, and trustless.
   
 --- 
  
-## 🚀 How to Play (Developer Mode) 
+## 🚀 How to Play (Developer Mode)  
 
 1. **Deploy the contract**
 2. **Create race**: 
