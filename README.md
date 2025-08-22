@@ -5,7 +5,7 @@ Players register, join races, and make moves turn by turn to reach the finish li
 The first one to cross the finish line wins. Simple, fun, and trustless.       
     
 ---    
-  
+   
 ## ⚙️ Features   
     
 - 🏎️ **Register & Race**: Players join open races with their wallets.   
