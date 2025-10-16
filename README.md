@@ -4,7 +4,7 @@
 Players register, join races, and make moves turn by turn to reach the finish line.       
 The first one to cross the finish line wins. Simple, fun, and trustless.         
        
----    
+---     
    
 ## ⚙️ Features     
      
