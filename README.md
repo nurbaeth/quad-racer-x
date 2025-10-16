@@ -6,7 +6,7 @@ The first one to cross the finish line wins. Simple, fun, and trustless.
        
 ---     
     
-## ⚙️ Features     
+## ⚙️ Features      
      
 - 🏎️ **Register & Race**: Players join open races with their wallets.    
 - 🧠 **Turn-Based Logic**: Choose your speed (1–10) per move.    
