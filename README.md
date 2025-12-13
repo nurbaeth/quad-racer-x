@@ -10,7 +10,7 @@ The first one to cross the finish line wins. Simple, fun, and trustless.
        
 - 🏎️ **Register & Race**: Players join open races with their wallets.      
 - 🧠 **Turn-Based Logic**: Choose your speed (1–10) per move.      
-- 🏁 **Win Condition**: First player to reach 100 units wins the race.       
+- 🏁 **Win Condition**: First player to reach 100 units wins the race.        
 - 📜 **Onchain Gameplay**: Every move and result is recorded on Ethereum-compatible chains.    
 - 🔒 **No Admins**: All logic is transparent and immutable.     
   
