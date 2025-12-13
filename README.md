@@ -14,7 +14,7 @@ The first one to cross the finish line wins. Simple, fun, and trustless.
 - 📜 **Onchain Gameplay**: Every move and result is recorded on Ethereum-compatible chains.     
 - 🔒 **No Admins**: All logic is transparent and immutable.      
    
----  
+---   
    
 ## 📦 Smart Contract  
  
